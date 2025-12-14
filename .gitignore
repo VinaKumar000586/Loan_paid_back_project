@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+myvenv/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+
+
+gradiantdescent.ipynb
